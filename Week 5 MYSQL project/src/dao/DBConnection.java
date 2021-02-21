@@ -8,7 +8,7 @@ public class DBConnection {
 
 	private final static String URL = "jdbc:mysql://localhost:3306/MTG_Cards";
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "Sanfran49er";
+	private final static String PASSWORD = "password";
 	private static Connection connection;
 	private static DBConnection instance;
 
